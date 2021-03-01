@@ -13,12 +13,13 @@ body {
 }
 
 .classe-css-utilisateur {
-    font-size: 30px;
+    font-size: 22px;
     color: royalblue;
-    margin: 10px;
+    margin: 10px auto;
     border: 1px solid black;
-    padding: 8px;
+    padding: 10px;
     background-color: lightgray;
+    width: 75%;
 }
 .classe-css-utilisateur:hover {
     background-color: darkgrey;
